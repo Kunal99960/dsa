@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "divisible": "c",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "vector": "cpp"
     }
 }
